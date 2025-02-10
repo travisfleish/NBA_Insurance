@@ -1,0 +1,883 @@
+Injury,Total_Injuries,Avg_Days_Missed
+Achilles injury,6,6.333333333333333
+Achilles injury / sprained ankle / illness,1,9.0
+Achilles tendinitis,1,4.0
+COVID-19,5,13.0
+COVID-19 protocols,1,8.0
+NBA health and safety protocols,518,9.028957528957529
+UCL injury in left elbow,1,29.0
+abdominal injury,5,15.4
+abdominal surgery,1,39.0
+adductor injury,3,36.333333333333336
+adductor muscle in right hip injury,1,83.0
+allergic reaction,1,3.0
+ankle inflammation  / knee injury,1,2.0
+ankle injury,71,7.140845070422535
+ankle injury / rest,1,4.0
+ankle injury / sore left knee,1,6.0
+"ankle, foot injuries",1,5.0
+"ankle, wrist injuries",1,3.0
+appendectomy,5,27.0
+arm injury,1,16.0
+arthroscopic surgery on left knee to remove loose body,1,30.0
+arthroscopic surgery on right ankle,1,23.0
+arthroscopic surgery on right knee,1,35.0
+arthroscopic surgery on right knee to repair cartilage damage,1,4.0
+arthroscopic surgery on right shoulder to repair torn labrum,1,53.0
+back injury,80,9.9125
+back injury / rest,1,2.0
+back spasms,80,5.625
+back spasms / sore lower back,1,21.0
+back spasms / strained lower back,1,44.0
+biceps injury,1,2.0
+bilateral sprained ankles,1,2.0
+blood clots,2,14.5
+blood clots in lungs,1,88.0
+body soreness,2,2.0
+body soreness / knee injury,1,5.0
+bone bruise,1,4.0
+bone bruise in left ankle,1,10.0
+bone bruise in left knee,7,24.571428571428573
+bone bruise in left knee / hyperextended left knee,1,11.0
+bone bruise in left knee / strained left knee,1,12.0
+bone bruise in right knee,9,12.88888888888889
+bone bruse in right knee,1,24.0
+bronchitis,1,2.0
+bruised ankle,1,31.0
+bruised back,3,7.666666666666667
+bruised chest,1,2.0
+bruised head,2,3.5
+bruised hip,2,2.0
+bruised knee,2,37.0
+bruised left ankle,2,1.5
+bruised left calf,12,5.25
+bruised left elbow,1,3.0
+bruised left eye,1,9.0
+bruised left finger,1,2.0
+bruised left foot,8,10.75
+bruised left gluteus muscle,1,50.0
+bruised left hand,2,1.5
+bruised left heel,8,9.875
+bruised left hip,35,3.5714285714285716
+bruised left knee,71,7.957746478873239
+bruised left knee / discomfort in left knee,1,6.0
+bruised left knee / lower back injury,1,2.0
+bruised left knee / thigh,1,2.0
+bruised left leg,7,6.857142857142857
+bruised left lower leg,3,4.333333333333333
+bruised left quadricep,18,4.111111111111111
+bruised left quadriceps,10,4.6
+bruised left ribcage,1,15.0
+bruised left shin,3,6.666666666666667
+bruised left shoulder,8,4.125
+bruised left thigh,4,7.75
+bruised left thumb,1,3.0
+bruised left toe,1,59.0
+bruised left wrist,1,9.0
+bruised leg,2,3.0
+bruised lower back,36,4.527777777777778
+bruised lower left leg,2,6.0
+bruised lumbar spine,1,55.0
+bruised nerve in left lower leg,1,7.0
+bruised pelvis,6,6.333333333333333
+bruised quadriceps,4,5.25
+bruised quadriceps / sore knee,1,2.0
+bruised rib,1,7.0
+bruised rib / strained back,1,3.0
+bruised ribcage DTD),1,2.0
+bruised ribs,6,14.666666666666666
+bruised right ankle,2,30.5
+bruised right calf,8,7.0
+bruised right elbow,1,3.0
+bruised right foot,5,4.8
+bruised right hand,5,7.2
+bruised right heel,8,18.375
+bruised right hip,22,5.409090909090909
+bruised right knee,63,6.015873015873016
+bruised right knee / right quadriceps injury,1,21.0
+bruised right leg,1,8.0
+bruised right quadricep,1,8.0
+bruised right quadriceps,46,16.630434782608695
+bruised right quadriceps / fractured patella in right knee,1,30.0
+bruised right rib,3,6.666666666666667
+bruised right shin,3,1.3333333333333333
+bruised right shoulder,8,14.375
+bruised right thigh,21,5.666666666666667
+bruised right wrist,3,3.3333333333333335
+bruised shin,2,2.0
+bruised sternum,3,5.333333333333333
+bruised tailbone,7,5.857142857142857
+bruised tailbone / sore lower back,1,4.0
+bruised thigh,2,3.5
+bruised tibia in right leg,1,21.0
+bruised wrist,1,4.0
+bruised/sore left hand,1,13.0
+bruised/sore left hip,1,3.0
+bruised/sore left knee,3,8.0
+bruised/sore lower back,1,3.0
+bruised/sprained left shoulder,2,8.5
+bursitis in left heel,1,1.0
+bursitis in left knee,1,2.0
+bursitis in left shoulder,2,3.5
+bursitis in right ankle,1,31.0
+bursitis in right heel,1,55.0
+bursitis in right shoulder,1,4.0
+calf injury,19,6.947368421052632
+cervical injury,4,11.75
+cervical strain,3,3.3333333333333335
+chest injury,2,10.5
+collapsed right lung,1,24.0
+concussion,122,6.868852459016393
+concussion protocol,14,6.571428571428571
+concussion protocols,9,6.777777777777778
+conditioning,13,2.8461538461538463
+conjunctivitis / pink eye,1,2.0
+corneal abrasion,1,3.0
+cyst in right arm,1,10.0
+dehydraftion,1,16.0
+dental ailment,5,2.6
+dental procedure,1,6.0
+discomfort in left knee,1,8.0
+dislocated left index finger,1,9.0
+dislocated left shoulder,3,9.0
+dislocated right finger,1,16.0
+dislocated right index finger,1,30.0
+dislocated right shoulder,5,25.0
+dislocated right thumb,1,57.0
+dislocated toe,2,32.5
+ear injury,1,2.0
+elbow injury,3,3.3333333333333335
+extensor tendon injury in left finger,1,9.0
+eye abrasion,1,3.0
+eye contusion,1,12.0
+eye injury,3,6.333333333333333
+eye procedure,1,3.0
+facial fracture,1,14.0
+facial injury,6,5.166666666666667
+fibula injury,1,4.0
+finger injury,13,3.769230769230769
+flu,38,3.4473684210526314
+flu / strep throat,1,7.0
+foot injury,25,14.48
+foot injury / bruised left knee,1,30.0
+foot injury / left knee injury,1,114.0
+foot injury / rest,1,4.0
+fracture in lower back,1,110.0
+fractured bones in face,1,50.0
+fractured collarbone,1,2.0
+fractured fibula in left leg,5,46.8
+fractured fibula in right leg,3,37.0
+fractured finger,10,27.9
+fractured hand,2,53.0
+fractured hand/wrist,1,20.0
+fractured jaw,3,22.666666666666668
+fractured left ankle,1,6.0
+fractured left big toe,2,32.0
+fractured left elbow,1,29.0
+fractured left finger,1,16.0
+fractured left foot,5,58.4
+fractured left hand,18,37.77777777777778
+fractured left hand/finger,1,32.0
+fractured left hand/wrist,1,8.0
+fractured left index finger,1,19.0
+fractured left orbital bone / concussion,1,20.0
+fractured left orbital bone and fractured nose,1,17.0
+fractured left ring finger,1,12.0
+fractured left thumb,7,25.571428571428573
+fractured left wrist,4,27.25
+fractured nose,13,9.692307692307692
+fractured nose and concussion,1,2.0
+fractured orbital bone,3,16.666666666666668
+fractured rib,4,16.25
+fractured right ankle,1,54.0
+fractured right elbow,1,22.0
+fractured right finger,2,27.0
+fractured right foot,3,105.33333333333333
+fractured right hand,14,31.5
+fractured right orbital bone,1,3.0
+fractured right pinky finger,1,34.0
+fractured right rib,3,14.666666666666666
+fractured right ring finger,1,25.0
+fractured right thumb,6,28.5
+fractured right wrist,9,46.77777777777778
+fractured tibia,1,23.0
+fractured tibia in leg,1,88.0
+fractured toe,1,28.0
+gastroenteritis,12,2.9166666666666665
+gastroentritis,1,5.0
+gastrointestinal ailment,1,3.0
+general soreness,3,2.6666666666666665
+glute injury,1,3.0
+glute muscle injury,1,4.0
+groin injury,24,17.541666666666668
+hamstring injury,23,7.0
+hamstring injury / rest,1,1.0
+hamstring injury / tendinitis in left knee,1,9.0
+hand injury,3,2.6666666666666665
+head cold,1,2.0
+head injury,2,3.0
+headache,3,4.333333333333333
+health and safety protocols,1,3.0
+health and safety protocols / COVID-19,1,8.0
+heart arrhythmia,1,4.0
+heel injury,7,8.714285714285714
+hernia,1,2.0
+herniated disc in lower back,1,119.0
+high left ankle sprain,1,33.0
+high right ankle sprain,1,52.0
+hip flexor injury,1,2.0
+hip injury,23,6.434782608695652
+hright hip pointer,1,2.0
+hyperextended knee,1,5.0
+hyperextended left hnee / various injuries,1,39.0
+hyperextended left knee,13,8.461538461538462
+hyperextended right knee,6,5.333333333333333
+hyperextended/strained right knee,1,3.0
+illness,742,4.486522911051213
+illness  / right knee injury,1,4.0
+illness / health and safety protocols,1,5.0
+illness / stomach flu,1,1.0
+illness/flu,1,2.0
+ineligible,3,6.666666666666667
+infection in right eye,1,3.0
+infection in right toe,1,4.0
+inflamed rib cartilage,1,5.0
+injuries suffered in car accident  / concussion,1,19.0
+irregular heartbeat,1,4.0
+kidney stone,1,16.0
+knee injury,52,15.153846153846153
+knee injury / rest,1,2.0
+lacerated finger,1,4.0
+laceration above right eye,1,2.0
+laceration in left eye,1,10.0
+laceration on head,1,3.0
+laceration on right finger,1,6.0
+laceration on right hand,1,11.0
+laceration on right index finger,1,13.0
+left Achilles injury,27,6.074074074074074
+left Achilles tendinitis,1,10.0
+left adductor injury,17,7.0588235294117645
+left ankle effusion / rest,1,2.0
+left ankle inflammation,1,37.0
+left ankle injury,42,14.880952380952381
+left ankle injury / sore left foot,1,2.0
+left ankle tendinitis,2,195.0
+"left ankle, groin injury",1,32.0
+"left ankle, knee injuries",1,7.0
+left anle/knee injury,1,1.0
+left big toe injury,15,12.533333333333333
+left bog toe injury,1,1.0
+left calf injury,35,5.085714285714285
+left elbow injury,7,5.285714285714286
+left elbow tendinitis,1,7.0
+left eye contusion,1,2.0
+left eye injury,5,9.0
+left fibula injury,1,11.0
+left finger injury,3,19.0
+left foot injury,37,16.35135135135135
+left forearm injury,1,3.0
+left groin injury,24,6.791666666666667
+left hamstring injury,75,8.48
+left hand injury,9,5.555555555555555
+left heel injury,5,6.0
+left hip flexor injury,11,7.454545454545454
+left hip impingement,2,5.5
+left hip injury,35,14.457142857142857
+left hip pointer,4,12.0
+left index finger injury,2,10.5
+left knee effusion,1,56.0
+left knee inflammation,7,7.714285714285714
+left knee injury,147,12.91156462585034
+left knee tendinitis,10,11.8
+left knee tendinosis,1,18.0
+left leg injury,12,5.333333333333333
+left oblique injury,1,4.0
+left quadricep injury,1,3.0
+left quadriceps injury,4,6.5
+left quadriceps tendon injury,1,2.0
+left shin injury,1,6.0
+left shoulder inflammation,3,2.0
+left shoulder injury,15,20.666666666666668
+left shoulder sublaxation,1,32.0
+left shoulder subluxation,3,31.666666666666668
+left side injury,1,11.0
+left thigh injury,14,6.714285714285714
+left thumb injury,8,14.25
+left toe injury,1,9.0
+left wrist injury,6,17.666666666666668
+leg injury,3,25.666666666666668
+legal issues,1,1.0
+loose cartilage in right ankle,1,120.0
+lower back injury,21,3.380952380952381
+lower back spasms,36,8.527777777777779
+lower back spasms / sore lower back,1,10.0
+lower leg injury,9,26.88888888888889
+lumbar injury,1,2.0
+lumbar spine injury,3,19.0
+lumbar sprain,1,9.0
+lumbar strain,1,36.0
+medical tests,1,8.0
+meniscus injury in right knee,1,41.0
+migraine headache,12,2.5833333333333335
+minor facial fracture,1,2.0
+mononucleosis,1,19.0
+mouth injury,1,2.0
+muscle cramps,1,2.0
+nasal fracture,5,11.0
+nausea,1,3.0
+neck injury,7,13.571428571428571
+neck injury / whiplash,1,123.0
+neck spasms,16,4.1875
+neck spasms / bruised neck,1,7.0
+nerve inflammation in left leg,1,3.0
+nerve root irritation,1,18.0
+neuropathy,1,36.0
+nose injury,1,2.0
+oral surgery,3,6.333333333333333
+"orbital fracture, concussion",1,7.0
+partial tear in left shoulder,1,6.0
+partially collapsed lung,1,229.0
+partially torn quadriceps tendon in left leg,1,66.0
+patella tendinopathy in left knee,3,3.6666666666666665
+patellar injury in left knee,2,7.0
+patellar injury in right knee,1,2.0
+patellar tendinitis in knee,2,9.5
+patellar tendinitis in left knee,2,12.0
+pectoral injury,1,2.0
+pelvic injury,2,9.0
+peroneal injury in right foot,1,2.0
+placed on IL,2191,11.647649475125514
+placed on IL  arthroscopic surgery on left knee,1,32.0
+placed on IL  arthroscopic surgery on right knee,1,35.0
+placed on IL  arthroscopic surgery on right shoulder to repair torn labrum,1,25.0
+placed on IL  microdisectomy surgery on lower back to repair herniated disc,1,61.0
+placed on IL  oral surgery,1,2.0
+placed on IL  surery on left knee to repair torn ACL,1,124.0
+placed on IL  surgery on back,1,102.0
+placed on IL  surgery on both ankles,1,45.0
+placed on IL  surgery on foot,1,35.0
+placed on IL  surgery on left ankle,2,79.0
+placed on IL  surgery on left ankle to remove bone fragment,1,119.0
+placed on IL  surgery on left foot to insert screw to repair stress fracture,1,84.0
+placed on IL  surgery on left foot to repair fracture,1,46.0
+placed on IL  surgery on left hand/thumb to repair fracture,1,24.0
+placed on IL  surgery on left knee,7,31.0
+placed on IL  surgery on left knee to repair fractured kneecap,1,53.0
+placed on IL  surgery on left knee to repair meniscus,1,37.0
+placed on IL  surgery on left knee to repair torn ACL,3,253.66666666666666
+placed on IL  surgery on left knee to repair torn medial meniscus,1,30.0
+placed on IL  surgery on left knee to repair torn meniscus,1,88.0
+placed on IL  surgery on left ring finger to repair fracture,1,34.0
+placed on IL  surgery on left shoulder,1,19.0
+placed on IL  surgery on left thumb to repair fracture,1,27.0
+placed on IL  surgery on lower left leg to repair stress fracture,1,133.0
+placed on IL  surgery on right Achilles,1,70.0
+placed on IL  surgery on right ankle,1,62.0
+placed on IL  surgery on right ankle to repair fractured bone,1,103.0
+placed on IL  surgery on right arm / hand to repair fracture,1,26.0
+placed on IL  surgery on right elbow to remove staph infection,1,18.0
+placed on IL  surgery on right foot,2,36.0
+placed on IL  surgery on right foot to repair fracture,2,49.0
+placed on IL  surgery on right hand to repair fracture,1,33.0
+placed on IL  surgery on right knee,2,52.0
+placed on IL  surgery on right knee to repair ruptured quadriceps tendon,1,368.0
+placed on IL  surgery on right knee to repair torn lateral meniscus,1,49.0
+placed on IL  surgery on right knee to repair torn meniscus,3,94.33333333333333
+placed on IL  surgery on right leg to repair fractured tibia and fibula,1,158.0
+placed on IL  surgery on right shoulder,4,16.75
+placed on IL  surgery on right shoulder to repair torn labrum,1,93.0
+placed on IL  surgery on right shoulder to repair torn rotator cuff,1,61.0
+placed on IL  surgery on right thumb to repair fracture,1,62.0
+placed on IL  surgery on right thumb to repair torn ligament,4,18.75
+placed on IL  surgery on right toe,1,63.0
+placed on IL  surgery on right wrist,3,67.0
+placed on IL  surgery on right wrist to repair fracture,2,36.0
+placed on IL  surgery on separated left shoulder,1,147.0
+placed on IL  surgery on sinus,1,9.0
+placed on IL  surgery to repair facial fracture,1,17.0
+placed on IL  surgery to repair facial fracture near left eye,1,8.0
+placed on IL  surgery to repair fractured nose,1,8.0
+placed on IL  surgery to repair fractured orbital bone,1,50.0
+placed on IL  surgery to repair fractured right ankle,1,8.0
+placed on IL  surgery to repair fractured right ring finger,1,35.0
+placed on IL  surgery to repair ligament and bone in toe,1,5.0
+placed on IL  surgery to repair ruptured quadriceps tendon in left leg,1,41.0
+placed on IL  surgery to repair sports hernia,2,45.0
+placed on IL  surgery to repair testicular injury,1,29.0
+placed on IL  surgery to repair torn left Achilles tendon,1,113.0
+placed on IL  surgery to repair torn left hamstring,2,128.5
+placed on IL  surgery to repait hernia / back injury,1,6.0
+placed on IL  torn ACL in left knee,2,85.5
+placed on IL f surgery on left foot to repair fracture,1,129.0
+placed on IL for conditioning,2,5.5
+placed on IL for personal reasons,3,2.6666666666666665
+placed on IL for quadriceps injury / rest,1,2.0
+placed on IL for rest,147,6.129251700680272
+placed on IL for rest /  surgery on left knee,2,1.5
+placed on IL for rest / back injury,1,4.0
+placed on IL for rest / knee injury,1,2.0
+placed on IL for rest / personal reasons,1,4.0
+placed on IL for rest / shoulder injury,1,1.0
+placed on IL for rest / sore back,1,3.0
+placed on IL for rest / sore left foot,1,2.0
+placed on IL for rest / sore neck,1,5.0
+placed on IL for right hip flexor injury,1,12.0
+placed on IL for strained left calf,1,363.0
+placed on IL for suspension,1,2.0
+placed on IL ineligible,7,5.0
+placed on IL not with team,1,3.0
+placed on IL player not with team,1,0.0
+placed on IL recoverimg from surgery on left thumb to repair torn ligament,1,27.0
+placed on IL recovering form surgery on thumb,1,80.0
+placed on IL reecovering from oral surgery,1,2.0
+placed on IL will illness,1,2.0
+placed on IL wiwth sprained MCL in right knee,1,63.0
+placed on IR with sore right knee,1,4.0
+plantar fascia in left foot,1,21.0
+plantar fascia in right foot,1,12.0
+plantar fasciaitis,1,14.0
+plantar fasciitis in foot,1,3.0
+plantar fasciitis in left foot,9,8.0
+plantar fasciitis in right foot,4,3.75
+plantar fasciitis left in foot,1,22.0
+player not with team,3,25.333333333333332
+pneumonia,1,2.0
+"pubic bone injury, strained left groin",1,45.0
+quadriceps injury,5,11.4
+quadriceps injury / back injury,1,2.0
+quarantine for leaving bubble,1,5.0
+rehab of knee,2,2.0
+rehab of knee / back injury,1,2.0
+rehab of knee / rest,1,2.0
+rehab of left knee,3,1.6666666666666667
+rehab of right quadriceps,1,56.0
+respiratory ailment,1,107.0
+respiratory infection,2,3.0
+rest / migraine headache,1,1.0
+rib injury,12,11.75
+right Achilles injury,15,7.733333333333333
+right Achilles tendinitis,2,3.5
+right Achilles tendon injury,8,2.375
+right adductor injury,17,8.764705882352942
+right ankle / right heel injury,1,36.0
+right ankle impingement,4,4.5
+right ankle injury,30,9.433333333333334
+right ankle tendinitis,1,10.0
+right ankle/foot injury,1,5.0
+right big toe,1,1.0
+right big toe injury,12,6.333333333333333
+right calf injury,45,6.266666666666667
+right calf injury / sore right ankle,1,14.0
+right elbow inflammation,1,2.0
+right elbow injury,11,15.0
+right eye inflammation,1,2.0
+right eye injury,7,6.428571428571429
+right fibula injury,3,29.0
+right finger injury,6,71.0
+right foot / toe injury,1,8.0
+right foot injury,39,18.333333333333332
+right forearm injury,1,3.0
+right groin / knee injury,1,10.0
+right groin injury,32,4.1875
+right hamstring injury,67,7.7164179104477615
+right hamstring injury / knee injury,1,7.0
+right hamstring injury / sore right knee,1,14.0
+"right hamstring, rib injuries",1,3.0
+right hand injury,12,7.25
+right hand injury / hip injury,1,4.0
+right heel injury,15,11.466666666666667
+right high ankle sprain,1,40.0
+right hip flexor injury,6,11.833333333333334
+right hip impingement,4,25.5
+right hip injury,47,11.319148936170214
+right hip injury / right wrist injury,1,5.0
+right hip pointer,7,9.0
+right index finger injury,6,12.333333333333334
+right knee effusion,1,2.0
+right knee inflammation,16,9.625
+right knee injury,107,11.25233644859813
+right knee injury / conditioning,1,6.0
+right knee tendinitis,12,9.083333333333334
+right leg injury,10,5.2
+right patella tendinopathy,2,2.0
+right peroneal injury,1,1.0
+right quadricep injury,9,21.555555555555557
+right quadriceps injury,4,5.75
+right quadriceps tendinitis,1,5.0
+right quadriceps tendon injury,2,7.0
+right rib injury,1,19.0
+right shoulder impingement,4,4.5
+right shoulder inflammation,2,6.5
+right shoulder injury,24,15.125
+right shoulder subluxation,1,28.0
+right shoulder tendinitis,1,6.0
+right thigh injury,12,4.5
+right thumb injury,10,15.6
+right toe inflammation,1,8.0
+right wrist injury,10,21.9
+right wrist tendinitis,2,3.0
+root canal,1,2.0
+separated right shoulder,1,34.0
+shin injury,3,4.0
+shin splints,1,6.0
+shin splints in left leg,2,17.0
+shin/tibia injury,1,48.0
+shoulder injury,14,6.214285714285714
+sinus ailment,1,2.0
+sinus fracture,1,5.0
+sinus infection,1,2.0
+sinus surgery,2,42.0
+sore Achilles,5,4.4
+sore ankle,7,10.0
+sore back,48,9.979166666666666
+sore back / tightness in back,1,2.0
+sore calf,3,13.333333333333334
+sore foot,2,23.0
+sore foot / ankle injury,1,3.0
+sore hamstring,1,9.0
+sore heel,1,9.0
+sore knee,12,11.666666666666666
+sore knees,2,3.5
+sore left Achilles,11,5.909090909090909
+sore left ankle,99,4.717171717171717
+sore left ankle  / knee,1,40.0
+sore left ankle / foot,1,5.0
+sore left big toe,2,1.5
+sore left calf,6,6.5
+sore left calf  / wrist injury,1,3.0
+sore left calf / various injuries,1,5.0
+sore left elbow,6,4.666666666666667
+sore left foot,47,14.76595744680851
+sore left foot / left big toe,1,106.0
+sore left forearm,1,11.0
+sore left groin,8,7.375
+sore left hamstring,12,15.916666666666666
+sore left hand,4,4.75
+sore left heel,5,10.4
+sore left hip,40,9.1
+sore left hip / glute muscle injury,1,10.0
+sore left hip / left hip impingement,1,17.0
+sore left knee,222,8.68918918918919
+sore left knee / left knee inflammation,1,18.0
+sore left knee / right hip injury,1,2.0
+sore left leg,4,26.25
+sore left plantar fascia,1,14.0
+sore left quadriceps,1,2.0
+sore left shoulder,18,3.3333333333333335
+sore left toe,4,4.0
+sore left wrist,11,6.2727272727272725
+sore left/right knee,1,6.0
+sore leg,2,36.5
+sore lower abdominal,1,42.0
+sore lower back,123,5.829268292682927
+sore lower back / back spasms,1,18.0
+sore lower left leg,1,3.0
+sore neck,10,8.6
+sore quadriceps,2,14.0
+sore ribs,3,2.0
+sore ribs / back injury,1,4.0
+sore right Achilles,21,11.80952380952381
+sore right Achilles / heel,1,1.0
+sore right adductor,1,8.0
+sore right ankle,86,7.813953488372093
+sore right ankle/heel,2,8.0
+sore right arm,1,6.0
+sore right big toe,2,171.0
+sore right calf,8,10.875
+sore right elbow,7,3.4285714285714284
+"sore right elbow, various injuries",1,55.0
+sore right foot,47,8.702127659574469
+sore right foot / knee,1,1.0
+sore right foot / sprained right ankle,1,29.0
+sore right groin,11,7.454545454545454
+sore right groin/hamstring,1,4.0
+sore right hamstring,9,7.666666666666667
+sore right hand,3,3.6666666666666665
+sore right heel,4,5.0
+sore right hip,19,7.526315789473684
+sore right hip / right hip inflammation,1,72.0
+sore right knee,220,10.75909090909091
+sore right knee / right foot injury,1,2.0
+sore right knee / stress reaction in right knee,1,141.0
+"sore right knee, sore right ankle",1,4.0
+sore right leg,2,15.5
+sore right quadriceps,2,22.5
+sore right quadriceps tendon / various injuries,1,5.0
+sore right shoulder,36,8.805555555555555
+sore right thigh,1,6.0
+sore right toe,1,40.0
+sore right wrist,15,38.53333333333333
+sore right wrist  / back injury,1,9.0
+sore shoulder,4,7.0
+sore throat,1,2.0
+sore toe,2,7.0
+sore/sprained ankles,1,2.0
+sore/sprained left ankle,3,9.666666666666666
+sore/sprained left knee,1,37.0
+sore/sprained left wrist,1,28.0
+sore/sprained right ankle,2,3.0
+sore/sprained right foot,1,17.0
+sore/sprained right shoulder,1,10.0
+sore/strained groin,1,9.0
+sore/strained left Achilles,1,2.0
+sore/strained left groin,1,13.0
+sore/strained left hamstring,3,13.0
+sore/strained left knee,1,1.0
+sore/strained lower back,2,3.5
+sore/strained right Achilles,1,37.0
+sore/strained right hamstring,1,5.0
+soreness,1,4.0
+spine injury,1,6.0
+sports hernia,1,32.0
+sprained MCL in knee,1,9.0
+sprained MCL in left knee,17,28.470588235294116
+sprained MCL in right knee,10,56.3
+sprained MCL in right knee and fractured right leg,1,128.0
+sprained UCL in elbow,1,22.0
+sprained UCL in left elbow,1,17.0
+sprained ankle,9,16.444444444444443
+sprained ankles,1,6.0
+sprained big toe,1,1.0
+sprained foot,1,9.0
+sprained knee,2,5.0
+sprained left ankle,414,11.417874396135266
+sprained left ankle / sprained left knee,1,1.0
+sprained left ankle / various injuries,1,14.0
+sprained left ankle/foot,1,2.0
+sprained left big toe,19,5.052631578947368
+sprained left elbow,4,8.75
+sprained left finger,1,4.0
+sprained left foot,26,14.23076923076923
+sprained left hamstring,1,24.0
+sprained left hand,10,10.0
+sprained left index finger,1,2.0
+sprained left knee,28,36.642857142857146
+sprained left shoulder,20,10.65
+sprained left thumb,15,5.733333333333333
+sprained left thumb / sore left ankle,1,6.0
+sprained left toe,7,5.571428571428571
+sprained left wrist,22,10.454545454545455
+sprained neck,2,2.5
+sprained pelvis,2,4.0
+sprained right ankle,404,10.784653465346535
+sprained right ankle / illness,1,2.0
+sprained right ankle/foot,1,5.0
+sprained right big toe,4,6.25
+sprained right elbow,16,18.375
+sprained right finger,1,2.0
+sprained right foot,23,10.478260869565217
+sprained right hand,3,4.0
+sprained right hip,1,5.0
+sprained right knee,32,18.09375
+sprained right shoulder,21,17.0
+sprained right thumb,31,11.096774193548388
+sprained right toe,2,2.5
+sprained right wrist,32,8.8125
+sprained rotator cuff in right shoulder,1,22.0
+sprained toe,5,5.6
+sprained toe on left foot,1,48.0
+sprained/strained left shoulder,1,3.0
+sternum injury,1,2.0
+stiff neck,6,5.166666666666667
+stiffness in left knee,1,3.0
+stiffness in lower back,2,3.5
+stiffness in right elbow,1,12.0
+stinger,1,2.0
+stomach ailment / knee injury,1,2.0
+stomach flu,2,2.5
+stomach illness,18,2.7777777777777777
+stomach virus,5,3.4
+strained / torn  right groin,1,37.0
+strained Achilles,1,6.0
+strained abdominal,12,8.0
+strained abdominal / right hip injury,1,18.0
+strained abdominal muscle,2,4.5
+strained abductor  / adductor,1,2.0
+strained adductor in left groin,1,19.0
+strained adductor in right groin,1,8.0
+strained adductor muscle,1,1.0
+strained adductor muscle in left groin,1,19.0
+strained back,6,4.833333333333333
+strained calf,3,19.0
+strained groin,7,9.714285714285714
+strained hamstring,9,18.333333333333332
+strained hip,1,7.0
+strained hip flexor,1,2.0
+strained left Achilles,1,3.0
+strained left adductor,21,15.0
+strained left ankle,1,8.0
+strained left bicep,1,15.0
+strained left calf,57,14.842105263157896
+strained left calf / sprained ligament in right knee,1,9.0
+strained left elbow,1,5.0
+strained left foot,1,8.0
+strained left gluteal muscle,1,9.0
+strained left gluteus muscle,1,19.0
+strained left groin,31,14.35483870967742
+strained left hamstring,83,18.927710843373493
+strained left hip,15,7.666666666666667
+strained left hip flexor,8,15.375
+strained left knee,7,8.285714285714286
+strained left knee/quadriceps,1,2.0
+strained left lower leg,1,47.0
+strained left oblique,4,17.5
+strained left oblique muscle,3,16.0
+strained left quadricep,2,9.5
+strained left quadriceps,8,11.375
+strained left rib muscle,1,3.0
+strained left shoulder,8,27.375
+strained left thigh,1,12.0
+strained left thumb,1,5.0
+strained left/right hamstring,1,11.0
+strained ligament in right knee,1,23.0
+strained lower back,22,8.863636363636363
+strained lower right leg,1,2.0
+strained neck,5,4.2
+strained patella in left knee,1,6.0
+strained patellar tendon in left knee,1,1.0
+strained pelvis,1,4.0
+strained quadriceps,1,92.0
+strained right Achilles,3,9.666666666666666
+strained right Achilles tendon,1,5.0
+strained right adductor,12,8.916666666666666
+strained right ankle  /calf,1,3.0
+strained right big toe,2,18.5
+strained right calf,60,22.933333333333334
+strained right calf / Achilles,1,66.0
+strained right elbow,2,5.5
+strained right foot,5,13.2
+strained right forearm,1,2.0
+strained right groin,22,9.772727272727273
+strained right hamstring,64,19.28125
+strained right hamstring / elbow injury,1,25.0
+strained right heel,1,6.0
+strained right hip,9,10.88888888888889
+strained right hip flexor,7,47.142857142857146
+strained right knee,4,13.75
+strained right knee / right calf injury,1,3.0
+strained right middle finger,1,4.0
+strained right oblique,3,13.333333333333334
+strained right oblique muscle,1,25.0
+strained right pectoral muscle,1,35.0
+strained right quadriceps,9,24.0
+strained right rotator cuff,1,21.0
+strained right shoulder,20,156.0
+strained rotator cuff in left shoulder,1,20.0
+strained rotator cuff in left shoulder / rest,1,10.0
+strained soleus muscle in left calf,1,10.0
+strained soleus muscle in right calf,1,2.0
+strained tendon in right foot,2,18.0
+strained thoracic muscle,1,3.0
+strained/sore right Achilles,1,2.0
+strep throat,2,3.0
+stress fracture in left foot,3,85.66666666666667
+stress fracture in lower back,1,44.0
+stress fracture in right ankle,1,41.0
+stress fracture in right foot,1,51.0
+stress fracture in tibia in left leg,1,25.0
+stress reaction in back,1,3.0
+stress reaction in left ankle/foot,1,10.0
+stress reaction in left tibia,1,39.0
+stress reaction in pelvis,1,40.0
+stress reaction in right ankle,1,86.0
+stress reaction in right foot,2,2.0
+surgery on back,1,40.0
+surgery on finger,2,31.5
+surgery on foot,2,64.5
+surgery on hand,1,0.0
+surgery on left ankle,1,106.0
+surgery on left foot,1,147.0
+surgery on left knee,6,82.66666666666667
+surgery on left knee to repair torn ACL,3,81.66666666666667
+surgery on left middle finger to repair fracture,1,45.0
+surgery on left shoulder,2,148.5
+surgery on left wrist to repair dislocation,1,142.0
+surgery on left wrist to repair non-displaced fracture,1,53.0
+surgery on neck,1,70.0
+surgery on right ankle,1,62.0
+surgery on right ankle/foot,1,45.0
+surgery on right elbow,1,33.0
+surgery on right foot to repair stress fracture,1,29.0
+surgery on right hand,1,34.0
+surgery on right hand to repair fractured fourth metacarpal bone,1,22.0
+surgery on right knee,6,55.166666666666664
+surgery on right pectoral muscle,1,14.0
+surgery on right thumb,3,58.0
+surgery on right thumb to repair torn ligament,1,47.0
+surgery on right wrist,2,30.5
+surgery to remove appendix,1,28.0
+surgery to repair core muscle injury,2,43.5
+surgery to repair fractured left cheekbone,1,2.0
+surgery to repair fractured right foot,1,126.0
+surgery to repair torn left Achilles tendon,1,94.0
+surgery to repair torn right Achilles tendon,1,82.0
+swelling in knee,1,2.0
+swelling in left knee,2,2.0
+swelling in right knee,1,7.0
+swollen right knee,3,19.666666666666668
+tailbone injury,4,15.75
+tailbone injury / concussion,1,2.0
+tendinitis in left Achilles,1,4.0
+tendinitis in left knee/quadriceps,1,116.0
+tendinitis in left quadriceps,1,4.0
+tendinitis in right knee,1,6.0
+thigh injury,4,5.75
+thoracic spasm,1,4.0
+throat,1,1.0
+throat ailment,1,2.0
+thumb injury,2,19.0
+tibia injury,5,5.4
+tibia injury in left leg,1,85.0
+tighness in hamstring,1,2.0
+tightness in back,3,7.666666666666667
+tightness in hamstring,1,9.0
+tightness in left calf,4,17.25
+tightness in left groin,4,5.25
+tightness in left hamstring,7,7.857142857142857
+tightness in left knee,1,13.0
+tightness in lower back,38,6.0
+tightness in lower back / lower back spasms,1,11.0
+tightness in lower back / rest,1,2.0
+tightness in lower back / sore lower back,1,5.0
+tightness in lower right leg,1,3.0
+tightness in mid-back,1,3.0
+tightness in right adductor,2,20.0
+tightness in right calf,4,3.5
+tightness in right hamstring,16,5.625
+toe injury,44,10.727272727272727
+tooth infection,1,1.0
+toothache,1,1.0
+torn ACL in left knee,2,67.5
+torn ACL in right knee,1,58.0
+torn UCL in left elbow,1,41.0
+torn labrum in left shoulder,2,37.0
+torn labrum in right hip,1,87.0
+torn lateral meniscus in left knee,1,46.0
+torn left Achilles,1,56.0
+torn left Achilles tendon,1,154.0
+torn left hamstring,1,29.0
+torn left oblique,1,27.0
+torn left quadriceps,1,42.0
+torn left quadriceps tendon,1,92.0
+torn ligament in left elbow,1,29.0
+torn ligament in right ankle,1,53.0
+torn ligament in right elbow,1,94.0
+torn medial meniscus in righ tknee,1,42.0
+torn meniscus in left knee,6,49.166666666666664
+torn meniscus in right knee,2,27.5
+torn pectoral muscle,2,103.0
+torn plantar fascia in left foot,1,17.0
+torn right Achilles tendon,2,20.5
+torn right hamstring,1,17.0
+torn right oblique muscle,2,59.0
+torn tendon in left groin,1,45.0
+turf toe,2,7.0
+turf toe / sprained left toe,1,7.0
+unspecified,1,2.0
+upper respiratory illness,4,2.25
+upper respiratory infection,10,4.4
+upset stomach,2,75.0
+various injuries,14,4.285714285714286
+vestibular condition,1,39.0
+waived,1,2.0
+wrist injury,5,6.0
